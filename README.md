@@ -1,5 +1,3 @@
-Here's the updated `README.md` file with `script.py` replaced by `takp_char_tools.py` throughout:
-
 ---
 
 # TAKP Character Importer and Query Tool

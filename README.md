@@ -1,4 +1,3 @@
----
 # TAKP Character Importer and Query Tool
 
 This Python script fetches character data from the TAKP (The Al'Kabor Project) server, stores it in a local SQLite database, and provides a command-line interface for querying characters based on class, name, and various attributes.
@@ -11,7 +10,6 @@ This Python script fetches character data from the TAKP (The Al'Kabor Project) s
 * Select and sort by various character attributes.
 * Tabulated output for easy reading.
   
----
 
 ## Requirements
 

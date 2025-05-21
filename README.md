@@ -10,7 +10,7 @@ This Python script fetches character data from the TAKP (The Al'Kabor Project) s
 * Query characters by exact name or class.
 * Select and sort by various character attributes.
 * Tabulated output for easy reading.
----
+  
 ---
 
 ## Requirements

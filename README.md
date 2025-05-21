@@ -133,7 +133,3 @@ Results:
 ## License
 
 This script is provided "as is" with no warranty. Use at your own risk.
-
----
-
-Let me know if you'd like a downloadable version or a `docs/` folder structure set up for project documentation.
